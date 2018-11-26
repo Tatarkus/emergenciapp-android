@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_emergencias>
+    <emergencia>
+        <nombre>Emergencia de prueba 1</nombre>
+        <descripcion>Breve descripcion de la emergencia.</descripcion>
+    </emergencia>
+	<emergencia>
+        <nombre>Emergencia numero 2</nombre>
+        <descripcion>Esta es la emergencia numero 2</descripcion>
+    </emergencia>
+</lista_emergencias>
